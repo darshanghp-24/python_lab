@@ -7,5 +7,6 @@ Python is a versatile and widely used programming language known for its simplic
 </p>
 
 <p>
-This repository contains Python-based work focused on exploring programming concepts, building functional code, and experimenting with different ideas. It serves as a space for developing and testing Python programs while improving logic, structure, and problem-solving skills. The content here is created to understand how Python can be applied to real-world scenarios through hands-on practice.
+This repository contains Python-based work focused on exploring programming concepts, building functional code, and experimenting with different ideas. It serves as a space for developing and testing Python programs while improving logic, structure, and problem-solving skills. The content here is created to understand how Python can be applied to real-world scenarios through hands-on practice.-
 </p>
+
